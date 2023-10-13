@@ -9,9 +9,6 @@ You can find the video <a href="https://youtu.be/Py5K_rv1_3A/">here</a>
   <img src="/public/readme.jpg" alt="Image" style="margin: 50px 0px 50px 0px"/>
 </p>
 
-## Online Version
-Go to the [link of the project](https://firebase-mfa.vercel.app/) to see the sample app.
-
 ## Tech stack & Open-source libraries
 
 - Nodejs
@@ -30,40 +27,11 @@ Go to the [link of the project](https://firebase-mfa.vercel.app/) to see the sam
 - Toast Notification
     - ```react-hot-toast```
 
-## Install the app
-
-```shell
-git clone https://github.com/ShekMak/firebase-mfa
-```
-## Getting Started
-
-First, install dependecies
-
-```shell
-yarn install
-```
-
-run the development server:
-
-```bash
-yarn dev
-```
-
-Open your browser to see the result.
-
-## Learn More About Next Js
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
 # License
 
 ```
-Designed and developed by 2023 Shekinah TSHIOKUFILA
+Designed  by 2023 Shekinah TSHIOKUFILA
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
