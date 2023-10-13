@@ -1,8 +1,4 @@
 <h1 align="center">Firebase MultiFactor Authentication</h1><br>
-<p align="center">  
-This repository is part of a video that explains how to build a multifactor authentication with Firebase.
-You can find the video <a href="https://youtu.be/Py5K_rv1_3A/">here</a>
-</p>
 <br>
 
 <p align="center">
